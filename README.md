@@ -4,7 +4,7 @@ This project is a mock dashboard that can be used as a decision-making tool to d
 
 ## Background
 
-In the United States, private health insurance companies often partner with local medical groups and IPAs to provide thorough coverage to members of the local community. However, when a patient requires care from specialists that are outside of their IPAs' local network, they often become subject to financial burden because their insurance will not pay for their needed services. Additionally, healthcare providers who service these patients potentially do not get reimbursed, resulting in loss of revenue.
+Private health insurance companies often partner with local medical groups and IPAs to provide thorough coverage to members of the local community. However, when a patient requires care from specialists that are outside of their IPAs' local network, they often become subject to financial burden because their insurance will not pay for their needed services. Additionally, healthcare providers who service these patients potentially do not get reimbursed, resulting in loss of revenue.
 
 This dashboard highlights 4 potential local IPAs in central California. A hypothetical healthcare provider that mainly provides two different types of therapies is used here. Metrics such as new patient referrals received and which of them require authorizations can be helpful in analyzing and justifying which IPA to initially contract with so that their scope of business can expand, and potentially prevent further loss of revenue.
 
@@ -25,7 +25,7 @@ This dashboard highlights 4 potential local IPAs in central California. A hypoth
 
   
 ***Alpha IPA Page:***
-_(Descriptions below apply to all other pages that depict each IPA)_
+_(Descriptions below apply to all other pages that depict each susbsequent IPA)_
  * Users are shown data from patients who insurances are exclusively affiliated with Alpha IPA
  * It depicts average number of authorization approvals, which can be a significant metric to present to stakeholders who seek to know a significant factor in why patients are not being provided services
  * It also depicts a line chart that compares how many patients were referred for therapy and how many ultimately received services

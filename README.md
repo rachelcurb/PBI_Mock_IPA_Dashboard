@@ -10,12 +10,13 @@ This dashboard highlights 4 potential local IPAs in central California. A hypoth
 
 ## Dashboard Design
 
-### Features and Highlights
-* Users can leverage and interact with the dashboard to:
+### Features
+* Users can interact with and leverage the dashboard to:
   * Obtain an overview of KPIs for patients whose insurances are affiliated with IPAs
   * Assess which IPA is preventing the most patients from receiving services through authorization denials
   * Determine the most common reasons as to why care was not provided
   * Explore geographical and temporal trends for each IPA and as compared to each other
+ 
 
 ***Home page:***
 ![Image](https://github.com/user-attachments/assets/55b6653d-f417-4474-8840-fb195a3428af)
@@ -24,3 +25,25 @@ This dashboard highlights 4 potential local IPAs in central California. A hypoth
 
   
 ***Alpha IPA Page:***
+_(Descriptions below apply to all other pages that depict each IPA)_
+ * Users are shown data from patients who insurances are exclusively affiliated with Alpha IPA
+ * It depicts average number of authorization approvals, which can be a significant metric to present to stakeholders who seek to know a significant factor in why patients are not being provided services
+ * It also depicts a line chart that compares how many patients were referred for therapy and how many ultimately received services
+
+![Image](https://github.com/user-attachments/assets/a504263f-2b1b-4d44-8740-3a191e246dc0)
+
+
+***Beta IPA Page:***
+![Image](https://github.com/user-attachments/assets/f834df4c-49ed-409b-b826-80a77f233119)
+
+
+***Gamma IPA Page:***
+![Image](https://github.com/user-attachments/assets/a0cf171b-292d-422f-8aca-13f61112f0d4)
+
+
+***Delta IPA Page:***
+![Image](https://github.com/user-attachments/assets/e8eef781-e9bc-43e9-a65f-dcae296d0c75)
+
+
+## Conclusions
+This mock dashboard can be used as a tool to present to stakeholders to justify which IPA to pool efforts into. The metrics included are some of the most common factors that healthcare providers consider when trying to analyze and pinpoint opportunities in which more patients can be serviced and to also find where revenue can be further produced. It would be up to the discretion of the healthcare company using this tool to determine which metrics are the most important.
